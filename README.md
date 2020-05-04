@@ -1,5 +1,6 @@
 # Udacity Project #2
-# investigate a Dataset 
+
+Investigate a Dataset 
 
 # Udacity Data Analyst Term 1 Project: Investigate a Dataset (TMDb movie data)
 
