@@ -22,7 +22,7 @@ Variables:
 - original_title
 - cast
 - homepage
-- director
+- director 
 - tagline	
 - keywords
 - overview
